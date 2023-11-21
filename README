@@ -1,3 +1,8 @@
+#
+- https://github.com/LacunaOmnibus/Lacuna-Starmap
+- https://github.com/lemming552/Lacuna-Starmap
+
+#
 This is a starmap plotted with flot used to show players in the game Lacuna Expanse.
 
 It uses a JSON file of data, see example.json file for an example.
